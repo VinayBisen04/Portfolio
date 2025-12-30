@@ -1,7 +1,6 @@
 👋 Hi, I'm Vinay Bisen
 
 🚀 **Backend Developer | Python | FastAPI | GenAI (LangChain, RAG)**  
-💼 3+ years of experience building scalable backend systems and AI-powered applications.
 
 👨‍💻 About Me
 
